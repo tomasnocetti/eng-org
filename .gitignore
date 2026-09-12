@@ -8,3 +8,7 @@ CLAUDE.local.md
 .vscode/
 .idea/
 node_modules/
+
+# Claude Code local settings
+.claude/settings.local.json
+.claude/worktrees/
