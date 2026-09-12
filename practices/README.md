@@ -1,10 +1,8 @@
 # Practices
 
-Learnings about engineering practice and the tooling that enforces it: monorepo hygiene, CI/CD, testing, dependency management, AI-assisted development and review.
-
-Naming: `practices/<lesson-slug>.md`. Template: `templates/learning.md`.
+Engineering practice and the tooling that enforces it: monorepo hygiene, CI/CD, testing, dependencies, AI-assisted development and review.
 
 ## Index
 
-| Learning | Confidence | Status |
-| -------- | ---------- | ------ |
+| Entry | Status | Summary |
+| ----- | ------ | ------- |
