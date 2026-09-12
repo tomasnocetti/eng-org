@@ -30,11 +30,16 @@ in another company's handbook.
 
 **What we do.** Present tense. Rules, automation, cadence, tooling by kind. A reader should
 be able to copy it. If a rule has a number (days until stale, reviewers required), give the
-number. This section is required.
+number. This section is required. When the practice is a document (a manifesto, a template,
+a checklist), quote it, anonymized, and say how it is used. Do not describe its shape or
+placement; a reader with the text in front of them can see both.
 
-**Why.** The problem this solved, what we did before, what we rejected. If the reasoning is
-"it seemed sensible", say that in one line and move on. Do not invent rationale that is not
-in the sources or from the user.
+**Why.** The motive, at the length needed to align a reader on why this exists before they
+copy it: the problem we had, what we did before when it matters, what we rejected. The full
+history of how the practice came to be is not required. Keep the dated story to the turns
+that changed the outcome and leave the rest in the private import. If the reasoning is "it
+seemed sensible", say that in one line and move on. Do not invent rationale that is not in
+the sources or from the user.
 
 **What we learned.** Only when there is something real: a surprise, a thing we would change,
 a boundary such as team size or stage where this stops working. One honest paragraph beats
@@ -46,6 +51,11 @@ Numbers over adjectives. "Review time dropped" is weak. "Median time to first re
 from four days to one" is strong. If three things changed at once, say the effect cannot be
 attributed. Surveys are evidence; give the response count and the question. One anecdote is
 fine when labeled as one.
+
+Dates and time spans only when they carry the point: how long an attempt sat before it
+failed, how long a practice has survived, how quickly something was reused. A practice does
+not need the month it started in the prose; `since` in the frontmatter holds that. When a date
+does earn its place, write it absolute.
 
 ## Anonymity while writing
 
@@ -66,14 +76,3 @@ Staccato fragments ("No process. No owners. Chaos."). Aphorisms ("You can't impr
 you don't measure."). Three-beat reveals. Parallel ad copy ("Process tells you what. Culture
 tells you why."). Smug simplicity ("That's it."). Balanced non-conclusions ("There are
 trade-offs on both sides"); pick a side.
-
-## Reviewing a draft
-
-Quote the weak passage, say why, rewrite it. Check:
-
-- "What we do" is concrete enough to copy and has its numbers.
-- "Why" is sourced, not invented.
-- "What we learned" is present only if real, and says when this would not apply.
-- Banned language, AI patterns, em dashes, paragraph length.
-- Scrub grep clean. No individual identifiable. No customer or product metrics.
-- Area README index row added or updated.

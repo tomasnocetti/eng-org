@@ -34,6 +34,9 @@ If `CLAUDE.local.md` is missing, ask for it before writing content. Do not write
 
 - First person plural. Concrete over abstract.
 - Describe tooling by kind unless the brand is the point and widely used.
+- Describe the practice, not the artifact. Where a document lives, what it is linked from,
+  how many sections or bullets it has, or what its headings are is never content. If the
+  document itself is the practice, include it.
 - Dates absolute. Team size as a range.
 - Numbers are welcome when they do not identify the company. Percentages and team sizes
   are fine; revenue, customer counts, and product metrics are not.
