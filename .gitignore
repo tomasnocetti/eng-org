@@ -1,0 +1,10 @@
+# Private, company-specific context. Never committed.
+.local/
+CLAUDE.local.md
+*.local.md
+
+.DS_Store
+*.swp
+.vscode/
+.idea/
+node_modules/
