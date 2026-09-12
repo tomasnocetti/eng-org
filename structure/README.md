@@ -1,10 +1,10 @@
 # Structure
 
-How the organization is shaped: team boundaries, ownership of code and systems, roles and responsibilities, and how teams interface. Includes how ownership is encoded in tooling (for example CODEOWNERS and team prefixes).
+Learnings about how the organization is shaped: team boundaries, ownership of code and systems, roles, and how teams interface. Includes how ownership is encoded in tooling.
 
-Naming: `structure/<topic>.md`. Template: `templates/entry.md`.
+Naming: `structure/<lesson-slug>.md`. Template: `templates/learning.md`.
 
 ## Index
 
-| Entry | Status | Summary |
-| ----- | ------ | ------- |
+| Learning | Confidence | Status |
+| -------- | ---------- | ------ |

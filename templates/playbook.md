@@ -4,6 +4,7 @@ trigger: <When this playbook applies>
 owner: <Role responsible>
 duration: <Rough time to complete>
 updated: YYYY-MM-DD
+derived_from: []        # learnings this playbook operationalizes
 related: []
 ---
 

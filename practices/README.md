@@ -1,10 +1,10 @@
 # Practices
 
-Engineering practices and the tooling that enforces them: monorepo hygiene, CI/CD, testing strategy, dependency management, AI-assisted development and review. The line from `process/`: process is about how people coordinate; practices are about how code gets built.
+Learnings about engineering practice and the tooling that enforces it: monorepo hygiene, CI/CD, testing, dependency management, AI-assisted development and review.
 
-Naming: `practices/<topic>.md`. Template: `templates/entry.md`.
+Naming: `practices/<lesson-slug>.md`. Template: `templates/learning.md`.
 
 ## Index
 
-| Entry | Status | Summary |
-| ----- | ------ | ------- |
+| Learning | Confidence | Status |
+| -------- | ---------- | ------ |

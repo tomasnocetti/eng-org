@@ -1,10 +1,10 @@
 # People
 
-Hiring, onboarding, growth paths, feedback loops, and team rituals. Aggregate patterns only. Never individual assessments.
+Learnings about hiring, onboarding, growth paths, feedback loops, and team rituals. Aggregate patterns only. Never individual assessments.
 
-Naming: `people/<topic>.md`. Template: `templates/entry.md`.
+Naming: `people/<lesson-slug>.md`. Template: `templates/learning.md`.
 
 ## Index
 
-| Entry | Status | Summary |
-| ----- | ------ | ------- |
+| Learning | Confidence | Status |
+| -------- | ---------- | ------ |

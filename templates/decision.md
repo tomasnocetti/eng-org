@@ -6,6 +6,7 @@ supersedes: null        # decisions/YYYY-MM-DD-<slug>.md if applicable
 superseded_by: null
 deciders: []            # roles or teams, not individuals
 tags: []
+informed_by: []          # journal entries or learnings that drove this
 references: []
 ---
 
@@ -33,4 +34,4 @@ worked.
 
 ## Follow-up
 
-Link to the `learnings/` entry once we have a retrospective.
+Link to the journal entry or learning that captures what happened after this decision.
