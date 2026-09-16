@@ -28,6 +28,10 @@ in another company's handbook.
 
 ## The three sections
 
+**The first sentence** of an entry says why an engineering org needs this, before anything
+describes it: the interruption, the ambiguity, or the cost that exists without it. A reader who
+stops there knows the problem. The description follows from it.
+
 **What we do.** Present tense. Rules, automation, cadence, tooling by kind. A reader should
 be able to copy it. If a rule has a number (days until stale, reviewers required), give the
 number. This section is required. When the practice is a document (a manifesto, a template,
