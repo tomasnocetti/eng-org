@@ -46,22 +46,6 @@ reaction time.
 | P2 | Contained and low impact: high-volume but harmless errors, a misconfiguration caught early | On-call assigned within one business day |
 | P3 | Minor: failed logins above threshold, a typo, an edge case | On-call handles it and records it |
 
-When unsure between two levels, pick the higher one. It is easy to stand a response down and
-expensive to start one late. Known errors that are not actionable go on an allow-list in code so
-they stop alerting at all.
-
-The on-call is not the only way an incident starts. Anyone who thinks something has happened
-tells a senior teammate immediately: their team lead, their manager, or the on-call engineer.
-Any of those can call an incident, and speed matters more than tidiness. If it is clearly a
-system issue, the on-call is the fastest route. A monitored security inbox is always a valid
-report path, and the right one for outsiders, for anything involving your own manager, or when
-you want a written record. Suspected security incidents are not discussed in open channels until
-the response team has decided who should know.
-
-The secondary shadows every P0 and P1, helps a first-time primary set priorities, and takes over
-when the primary is out or overwhelmed. When the primary is deep in a P1, the secondary watches
-the P2 and P3 queue.
-
 Everyone else has duties too. When an issue is routed to your team, you own it: investigate,
 post updates in the channel, open a ticket for follow-up work, and post what you found. In
 business hours you are reachable for the on-calls.
