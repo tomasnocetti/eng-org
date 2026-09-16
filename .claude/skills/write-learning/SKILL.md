@@ -41,9 +41,30 @@ that changed the outcome and leave the rest in the private import. If the reason
 seemed sensible", say that in one line and move on. Do not invent rationale that is not in
 the sources or from the user.
 
-**What we learned.** Only when there is something real: a surprise, a thing we would change,
-a boundary such as team size or stage where this stops working. One honest paragraph beats
-three hedged ones. Omit the section rather than pad it.
+**What we learned.** Only when there is something real: what the practice achieved or failed
+to achieve, a surprise, a thing we would change, a boundary such as team size or stage where
+this stops working. Lead with the result. One honest paragraph beats three hedged ones. Omit
+the section rather than pad it.
+
+## Interview before inventing
+
+The sources usually give the practice and rarely the motive or the result. Do not close that
+gap with plausible reasoning. Draft "What we do" from the sources, list what they leave open,
+then interview the user as the CTO who ran the process.
+
+Ask in one message, at most five questions, each tied to a gap the entry cannot close without
+an answer. Under each question, state the inference you would otherwise write, so the reply
+can be "yes", a correction, or "we never knew". Cover, in this order:
+
+1. The problem. What was going wrong before, and what made it worth fixing then.
+2. What was rejected. The alternatives considered, and why not.
+3. The result. What changed after, in numbers where they exist, and what did not change.
+4. The boundary. What would make you drop this.
+
+Skip questions the sources already answer, and never ask for facts you can look up. Write the
+answers into "Why" and "What we learned" in the org's voice, and save the questions and
+answers under `.local/imports/interviews/<date>-<slug>.md` so they are a source like any
+other. If the answer to the result question is "we never measured it", the entry says so.
 
 ## Evidence
 
