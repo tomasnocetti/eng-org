@@ -7,9 +7,10 @@ tags: [values, culture, hiring, promotions, feedback]
 
 # Engineering manifesto
 
-How we expect engineers to behave, as things we aim for and patterns we do not accept. It
-began as the management team's answer to "who do we want to work with" and later became our
-promotion criteria.
+Without a written statement of how engineers are expected to behave with each other,
+expectations stay implicit and new hires learn them slowly, by bumping into them. The manifesto
+is ours: things we aim for and patterns we do not accept. It began as the management team's
+answer to "who do we want to work with" and later became our promotion criteria.
 
 ## What we do
 

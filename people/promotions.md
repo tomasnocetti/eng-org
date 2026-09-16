@@ -7,8 +7,10 @@ tags: [promotions, career, feedback, managers]
 
 # Promotions
 
-A promotion recognizes that someone is already operating at the next level. The manager makes
-the case in writing, in a fixed nomination format, and the case has to include what peers say.
+Without a written case, promotions are decided by whoever heads the area, and once there are
+several managers nobody can see what a promotion requires or compare two cases. So the manager
+makes the case in writing, in a fixed nomination format, and the case has to include what peers
+say. A promotion recognizes that someone is already operating at the next level.
 
 ## What we do
 
