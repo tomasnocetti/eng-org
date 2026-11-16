@@ -12,6 +12,19 @@ writing well inside them.
 do", and would learn something from "Why" and "What we learned" that they could not get
 from a generic handbook.
 
+## The line of an entry
+
+Every entry is a case study of one solution: the need, what we built to meet it, what
+worked, what could be improved, and why. Before drafting, write that line in four or five
+plain sentences and check it with the user if the sources leave it open. Every paragraph
+serves it. A verdict in the opening that the rest of the entry does not argue for breaks the
+line; so does a section that tells a different story from the one before it.
+
+Write lessons so they transfer. The reader is at another company and cannot use our history,
+only what it taught us. State the lesson in general terms ("a limit on how long an
+initiative may run does not hold when the time behind it is borrowed"), not as a record of
+what we did ("we wrote a six-week rule and never enforced it").
+
 ## Voice
 
 An engineering leader debriefing a peer. Specific, candid about what went wrong, more
@@ -47,8 +60,11 @@ the sources or from the user.
 
 **What we learned.** Only when there is something real: what the practice achieved or failed
 to achieve, a surprise, a thing we would change, a boundary such as team size or stage where
-this stops working. Lead with the result. One honest paragraph beats three hedged ones. Omit
-the section rather than pad it.
+this stops working. When there is material for both, split it under "What worked" and "What
+could be improved", and tie each shortfall to its cause in the design. Keep the tone of a
+team improving its own solution, not of a verdict against it. Do not add closing advice the
+user did not give. One honest paragraph beats three hedged ones. Omit the section rather
+than pad it.
 
 ## Interview before inventing
 
@@ -72,10 +88,16 @@ other. If the answer to the result question is "we never measured it", the entry
 
 ## Evidence
 
-Numbers over adjectives. "Review time dropped" is weak. "Median time to first review went
-from four days to one" is strong. If three things changed at once, say the effect cannot be
-attributed. Surveys are evidence; give the response count and the question. One anecdote is
-fine when labeled as one.
+Numbers belong where a reader would copy them: rules, thresholds, cadences in "What we do".
+In "Why" and "What we learned", prefer the general lesson to our scoreboard. Leave out
+one-off examples (a specific tool bought and dropped, a single project's story), counts of
+engineers or capacity at the time, poll and survey tallies, and per-quarter scores. Name the
+kind of thing instead: "reducing test flakiness", not the percentages of one quarter. Keep a
+number in those sections only when the lesson cannot be stated without it, and never
+generalize into a claim the sources do not support. If three things changed at once, say the
+effect cannot be attributed.
+
+The private import keeps the detail. The entry keeps what transfers.
 
 Dates and time spans only when they carry the point: how long an attempt sat before it
 failed, how long a practice has survived, how quickly something was reused. A practice does
