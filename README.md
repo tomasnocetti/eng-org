@@ -27,6 +27,10 @@ One markdown file per topic, named by the topic: `process/rfcs.md`,
 3. **What we learned.** Optional. What surprised us, what we would change, when this
    would not apply.
 
+When an entry rests on documents worth referring to in full (a policy, a playbook, a
+template), they live anonymized in a folder named after the entry:
+`people/engineering-managers.md` and `people/engineering-managers/`.
+
 Sections 2 and 3 grow over time. An entry can start as just "what we do" and gain the
 why and the lessons later.
 
