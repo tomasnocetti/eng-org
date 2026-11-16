@@ -7,11 +7,17 @@ tags: [engineering-managers, leadership, growth, onboarding, role-definition]
 
 # Engineering managers
 
-When what we expect from a manager is written nowhere, each new manager brings their own
-version of the job, and a team's culture and dynamics shift with whoever leads it. We wrote
-the role down so that reports and senior staff can both point to it, and we grow managers
-from inside through a phased transition in which the candidate writes the plan, takes over
-process before people, and is confirmed only once the team already runs under them.
+Every organization has its own definition of what it expects from a manager, and in a
+startup that definition is usually implicit. As the teams grow, implicit stops being enough:
+people need a shared answer on what to expect from whoever leads them. A good manager acts
+as a catalyst and moves the team forward. A bad one acts as an anchor: the team's culture
+drifts, its dynamics change, and that is very hard to remediate.
+
+There is more than one good style of management, and each company should settle on the one
+that fits the way it works. What matters is that the choice is explicit. We wrote ours down
+so that the people being managed and the senior staff can both refer to it, and we built a
+path for engineers who want to grow into the role: the candidate drafts the plan, takes over
+process before people, and is confirmed once the team already runs under them.
 
 ## What we do
 
